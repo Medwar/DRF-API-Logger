@@ -1,3 +1,7 @@
+# Changes to the fork:
+Added "user" field to logging.
+
+
 # DRF API Logger
 ![version](https://img.shields.io/badge/version-1.1.16-blue.svg)
 [![Downloads](https://static.pepy.tech/personalized-badge/drf-api-logger?period=total&units=none&left_color=black&right_color=orange&left_text=Downloads%20Total)](http://pepy.tech/project/drf-api-logger)
